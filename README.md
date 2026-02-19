@@ -25,14 +25,18 @@ The executable responsible for modifying auditing settings was:
 
 ## Screenshots
 
+
 ### 1. Filtering Event ID 4624
-![4624 Filter]
+![Filtering Event 4624](https://github.com/user-attachments/assets/59e5631f-f58a-4d6e-ae4f-0080f1853a6a)
+
 
 ### 2. XML Filter Pivot Using Logon ID
-![XML Filter]
+![XML Filter](https://github.com/user-attachments/assets/719e7de2-dcfa-4e92-9352-f7e201720f33)
 
-### 3. Event ID 4907 Showing Executable
-![4907 Event]
+
+
+### 3. Event ID 4907 Showing Audit Policy Change
+![Event 4907](https://github.com/user-attachments/assets/a68263e3-f04d-4d77-ae0d-187cf427fb38)
 
 ---
 
