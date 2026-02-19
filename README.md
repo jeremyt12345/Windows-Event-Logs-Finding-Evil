@@ -24,7 +24,7 @@ This lab focused on investigating Windows Security Event Logs to identify which 
 The executable responsible for modifying auditing settings was:
 
 ### 1. Filtering Event ID 4624
-![Filtering Event 4624]<img width="792" height="665" alt="DDPM Subagent User_j2l8pym75P" src="https://github.com/user-attachments/assets/227f70ad-b8e5-4d32-a41a-9f93f58113b3" />
+<img width="792" height="665" alt="DDPM Subagent User_j2l8pym75P" src="https://github.com/user-attachments/assets/227f70ad-b8e5-4d32-a41a-9f93f58113b3" />
 
 
 ### 2. XML Filter Pivot Using Logon ID
