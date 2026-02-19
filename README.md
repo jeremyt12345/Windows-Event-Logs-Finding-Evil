@@ -22,10 +22,9 @@ This lab focused on investigating Windows Security Event Logs to identify which 
 
 
 The executable responsible for modifying auditing settings was:
+
 ### 1. Filtering Event ID 4624
-![Filtering Event 4624](https://github.com/user-attachments/assets/59e5631f-f58a-4d6e-ae4f-0080f1853a6a)
-
-
+![Filtering Event 4624](screenshots/filter-4624.png)
 
 ### 2. XML Filter Pivot Using Logon ID
 ![XML Filter](https://github.com/user-attachments/assets/719e7de2-dcfa-4e92-9352-f7e201720f33)
