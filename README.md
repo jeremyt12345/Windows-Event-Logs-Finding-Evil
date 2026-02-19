@@ -15,21 +15,16 @@ This lab focused on investigating Windows Security Event Logs to identify which 
 4. Discovered Event ID 4907 (Audit Policy Change)
 5. Identified the executable responsible for modifying auditing settings
 
----
-
-## Key Finding
-
-The executable responsible for modifying auditing settings was:
-### 1. Filtering Event ID 4624
-![Filtering Event 4624](https://github.com/user-attachments/assets/59e5631f-f58a-4d6e-ae4f-0080f1853a6a)
 
 ---
 
 ## Screenshots
 
 
+The executable responsible for modifying auditing settings was:
 ### 1. Filtering Event ID 4624
 ![Filtering Event 4624](https://github.com/user-attachments/assets/59e5631f-f58a-4d6e-ae4f-0080f1853a6a)
+
 
 
 ### 2. XML Filter Pivot Using Logon ID
