@@ -26,13 +26,13 @@ The executable responsible for modifying auditing settings was:
 ## Screenshots
 
 ### 1. Filtering Event ID 4624
-![4624 Filter](screenshots/01_filter_4624.png)
+![4624 Filter]
 
 ### 2. XML Filter Pivot Using Logon ID
-![XML Filter](screenshots/02_xml_filter.png)
+![XML Filter]
 
 ### 3. Event ID 4907 Showing Executable
-![4907 Event](screenshots/03_event_4907.png)
+![4907 Event]
 
 ---
 
